@@ -1,0 +1,38 @@
+{
+  "ok": true,
+  "dados": [
+    {
+      "body": "testando aws sqs 1",
+      "MessageId": "190020d5-e41b-4396-9495-ce0574cef08b"
+    },
+    {
+      "body": "testando aws sqs 11",
+      "MessageId": "2d9aeee3-3a21-4b04-8a6e-1336ca03b0d6"
+    },
+    {
+      "body": "testando aws sqs 10",
+      "MessageId": "8787fb84-98f2-4fd4-a6cc-7da5cf9bea0b"
+    },
+    {
+      "body": "testando aws sqs 2",
+      "MessageId": "a2b2ad01-52d1-4dba-81c9-4b5cf8aa7946"
+    },
+    {
+      "body": "testando aws sqs 8",
+      "MessageId": "5df2389c-190f-4f64-ab47-8492e7338392"
+    },
+    {
+      "body": "testando aws sqs 3",
+      "MessageId": "50ca7623-efcd-4c02-b884-3c1562a20d24"
+    },
+    {
+      "body": "testando aws sqs 5",
+      "MessageId": "77560baf-3022-497d-b59b-bb8d67cce7d2"
+    },
+    {
+      "body": "testando aws sqs 7",
+      "MessageId": "cd963117-2703-42e2-93f1-d803d0dbb56f"
+    }
+  ],
+  "num": 8
+}
